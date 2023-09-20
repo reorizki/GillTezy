@@ -1,3 +1,3 @@
-# social_media_flutter
+# gillTezy_flutter
 
 A new Flutter project.
